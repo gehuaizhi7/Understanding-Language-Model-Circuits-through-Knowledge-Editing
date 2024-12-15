@@ -1,0 +1,22 @@
+temperature: 0.01
+batch_size: 128
+original_model_train_epochs: 400
+classification_lr: 0.001
+train_epochs: 3000
+lr: 0.1
+lambda_sparse: 10
+lambda_complete: 1
+save_every: 50
+task_name: determiner_noun_agreement_with_adjectives_2_5
+model_name: gpt2
+model_dir: ../models
+data_dir: ../data/blimp_dnawa2.csv
+resume_epoch: 0
+target_density: 0.05
+
+data_dir_ft: ../data/hierarchy_data.json
+lr_ft: 0.0005
+batch_size_ft: 1
+weight_decay_ft: 0
+num_steps_ft: 50
+norm_constraint_ft: 0.0005

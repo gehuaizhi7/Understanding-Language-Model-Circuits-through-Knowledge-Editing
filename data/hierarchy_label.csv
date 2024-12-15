@@ -1,0 +1,397 @@
+,text,label
+0,A British Shorthair is a kind of cat,1
+1,A British Shorthair is a kind of dog,0
+2,A cat is a kind of animal,1
+3,A cat is a kind of plant,0
+4,A Red Delicious is a kind of apple,1
+5,A Red Delicious is a kind of pear,0
+6,An apple is a kind of fruit,1
+7,An apple is a kind of vegetable,0
+8,The Great Pyramid of Giza is a kind of pyramid,1
+9,The Great Pyramid of Giza is a kind of ziggurat,0
+10,A pyramid is a kind of historical structure,1
+11,A pyramid is a kind of modern building,0
+12,Beethoven is a kind of composer,1
+13,Beethoven is a kind of author,0
+14,A composer is a kind of artist,1
+15,A composer is a kind of scientist,0
+16,A sunflower is a kind of flower,1
+17,A sunflower is a kind of bush,0
+18,A flower is a kind of plant,1
+19,A flower is a kind of fungus,0
+20,A bald eagle is a kind of eagle,1
+21,A bald eagle is a kind of hawk,0
+22,An eagle is a kind of bird,1
+23,An eagle is a kind of mammal,0
+24,A Monarch Butterfly is a kind of butterfly,1
+25,A Monarch Butterfly is a kind of moth,0
+26,A butterfly is a kind of insect,1
+27,A butterfly is a kind of arachnid,0
+28,A Blue Whale is a kind of whale,1
+29,A Blue Whale is a kind of shark,0
+30,A whale is a kind of marine animal,1
+31,A whale is a kind of freshwater animal,0
+32,The Sahara Desert is a kind of desert,1
+33,The Sahara Desert is a kind of tundra,0
+34,A desert is a kind of biome,1
+35,A desert is a kind of artificial environment,0
+36,A Maple Tree is a kind of tree,1
+37,A Maple Tree is a kind of shrub,0
+38,A tree is a kind of plant,1
+39,A tree is a kind of animal,0
+40,Mount Everest is a kind of mountain,1
+41,Mount Everest is a kind of hill,0
+42,A mountain is a kind of geographical feature,1
+43,A mountain is a kind of cultural artifact,0
+44,A python is a kind of snake,1
+45,A python is a kind of lizard,0
+46,A snake is a kind of reptile,1
+47,A snake is a kind of bird,0
+48,The Mona Lisa is a kind of painting,1
+49,The Mona Lisa is a kind of sculpture,0
+50,A painting is a kind of artwork,1
+51,A painting is a kind of musical composition,0
+52,The Grand Canyon is a kind of canyon,1
+53,The Grand Canyon is a kind of valley,0
+54,A canyon is a kind of natural wonder,1
+55,A canyon is a kind of technological innovation,0
+56,A tornado is a kind of weather phenomenon,1
+57,A tornado is a kind of climate event,0
+58,A weather phenomenon is a kind of natural event,1
+59,A weather phenomenon is a kind of human activity,0
+60,Shakespeare is a kind of playwright,1
+61,Shakespeare is a kind of poet,0
+62,A playwright is a kind of writer,1
+63,A playwright is a kind of scientist,0
+64,Saturn is a kind of planet,1
+65,Saturn is a kind of dwarf planet,0
+66,A planet is a kind of celestial body,1
+67,A planet is a kind of human settlement,0
+68,The Great Barrier Reef is a kind of coral reef,1
+69,The Great Barrier Reef is a kind of seagrass meadow,0
+70,A coral reef is a kind of marine ecosystem,1
+71,A coral reef is a kind of terrestrial ecosystem,0
+72,The Amazon Rainforest is a kind of rainforest,1
+73,The Amazon Rainforest is a kind of woodland,0
+74,A rainforest is a kind of forest,1
+75,A rainforest is a kind of urban area,0
+76,A kangaroo is a kind of marsupial,1
+77,A kangaroo is a kind of monotreme,0
+78,A marsupial is a kind of mammal,1
+79,A marsupial is a kind of fish,0
+80,Sushi is a kind of Japanese cuisine,1
+81,Sushi is a kind of Chinese cuisine,0
+82,Japanese cuisine is a kind of cuisine,1
+83,Japanese cuisine is a kind of religious practice,0
+84,Mozart is a kind of classical composer,1
+85,Mozart is a kind of romantic composer,0
+86,A classical composer is a kind of musician,1
+87,A classical composer is a kind of mathematician,0
+88,The Pacific Ocean is a kind of ocean,1
+89,The Pacific Ocean is a kind of sea,0
+90,An ocean is a kind of water body,1
+91,An ocean is a kind of landform,0
+92,The Golden Gate Bridge is a kind of suspension bridge,1
+93,The Golden Gate Bridge is a kind of cantilever bridge,0
+94,A suspension bridge is a kind of bridge,1
+95,A suspension bridge is a kind of tunnel,0
+96,A King Cobra is a kind of cobra,1
+97,A King Cobra is a kind of viper,0
+98,A cobra is a kind of snake,1
+99,A cobra is a kind of amphibian,0
+100,The Nile River is a kind of river,1
+101,The Nile River is a kind of stream,0
+102,A river is a kind of body of water,1
+103,A river is a kind of landform,0
+104,A Bengal Tiger is a kind of tiger,1
+105,A Bengal Tiger is a kind of lion,0
+106,A tiger is a kind of mammal,1
+107,A tiger is a kind of reptile,0
+108,A Polar Bear is a kind of bear,1
+109,A Polar Bear is a kind of big cat,0
+110,A bear is a kind of mammal,1
+111,A bear is a kind of bird,0
+112,A Honey Bee is a kind of bee,1
+113,A Honey Bee is a kind of wasp,0
+114,A bee is a kind of insect,1
+115,A bee is a kind of mammal,0
+116,Orion's Belt is a kind of star constellation,1
+117,Orion's Belt is a kind of nebula,0
+118,A star constellation is a kind of astronomical feature,1
+119,A star constellation is a kind of historical monument,0
+120,The Statue of Liberty is a kind of statue,1
+121,The Statue of Liberty is a kind of memorial,0
+122,A statue is a kind of monument,1
+123,A statue is a kind of literary work,0
+124,Van Gogh is a kind of painter,1
+125,Van Gogh is a kind of actor,0
+126,A painter is a kind of artist,1
+127,A painter is a kind of physicist,0
+128,The Eiffel Tower is a kind of landmark,1
+129,The Eiffel Tower is a kind of sculpture,0
+130,A landmark is a kind of structure,1
+131,A landmark is a kind of vehicle,0
+132,An Albatross is a kind of seabird,1
+133,An Albatross is a kind of songbird,0
+134,A seabird is a kind of bird,1
+135,A seabird is a kind of insect,0
+136,The Dead Sea is a kind of salt lake,1
+137,The Dead Sea is a kind of freshwater lake,0
+138,A salt lake is a kind of lake,1
+139,A salt lake is a kind of mountain range,0
+140,Mount Kilimanjaro is a kind of volcano,1
+141,Mount Kilimanjaro is a kind of river,0
+142,A volcano is a kind of mountain,1
+143,A volcano is a kind of plain,0
+144,The Thinker is a kind of sculpture,1
+145,The Thinker is a kind of painting,0
+146,A sculpture is a kind of artwork,1
+147,A sculpture is a kind of novel,0
+148,Big Ben is a kind of clock tower,1
+149,Big Ben is a kind of radio tower,0
+150,A clock tower is a kind of tower,1
+151,A clock tower is a kind of garden,0
+152,A Komodo Dragon is a kind of lizard,1
+153,A Komodo Dragon is a kind of mammal,0
+154,A lizard is a kind of reptile,1
+155,A lizard is a kind of plant,0
+156,An Orchid is a kind of flower variety,1
+157,An Orchid is a kind of tree,0
+158,A flower variety is a kind of flower,1
+159,A flower variety is a kind of mineral,0
+160,Niagara Falls is a kind of waterfall,1
+161,Niagara Falls is a kind of geyser,0
+162,A waterfall is a kind of natural feature,1
+163,A waterfall is a kind of archaeological site,0
+164,A Daffodil is a kind of flower,1
+165,A Daffodil is a kind of shrub,0
+166,A flower is a kind of plant,1
+167,A flower is a kind of animal,0
+168,Bach is a kind of baroque composer,1
+169,Bach is a kind of film composer,0
+170,A baroque composer is a kind of musician,1
+171,A baroque composer is a kind of scientist,0
+172,A Rainbow Trout is a kind of freshwater fish,1
+173,A Rainbow Trout is a kind of saltwater fish,0
+174,A freshwater fish is a kind of fish,1
+175,A freshwater fish is a kind of bird,0
+176,The Louvre is a kind of museum,1
+177,The Louvre is a kind of library,0
+178,A museum is a kind of cultural institution,1
+179,A museum is a kind of sporting arena,0
+180,Sydney Opera House is a kind of opera house,1
+181,Sydney Opera House is a kind of cinema,0
+182,An opera house is a kind of building,1
+183,An opera house is a kind of vehicle,0
+184,An Anaconda is a kind of boa,1
+185,An Anaconda is a kind of constrictor,0
+186,A boa is a kind of snake,1
+187,A boa is a kind of amphibian,0
+188,Machu Picchu is a kind of ancient ruin,1
+189,Machu Picchu is a kind of modern city,0
+190,An ancient ruin is a kind of historical site,1
+191,An ancient ruin is a kind of natural park,0
+192,Jupiter is a kind of gas giant,1
+193,Jupiter is a kind of rocky planet,0
+194,A gas giant is a kind of planet,1
+195,A gas giant is a kind of star,0
+196,Angkor Wat is a kind of temple complex,1
+197,Angkor Wat is a kind of church,0
+198,A temple complex is a kind of religious site,1
+199,A temple complex is a kind of university,0
+200,Victoria Falls is a kind of waterfall,1
+201,Victoria Falls is a kind of river,0
+202,A waterfall is a kind of natural wonder,1
+203,A waterfall is a kind of museum,0
+204,Taj Mahal is a kind of mausoleum,1
+205,Taj Mahal is a kind of palace,0
+206,A mausoleum is a kind of architectural structure,1
+207,A mausoleum is a kind of vehicle,0
+208,Empire State Building is a kind of skyscraper,1
+209,Empire State Building is a kind of cottage,0
+210,A skyscraper is a kind of building,1
+211,A skyscraper is a kind of aircraft,0
+212,The Andes is a kind of mountain range,1
+213,The Andes is a kind of valley,0
+214,A mountain range is a kind of geographical formation,1
+215,A mountain range is a kind of body of water,0
+216,A Tarantula is a kind of spider,1
+217,A Tarantula is a kind of insect,0
+218,A spider is a kind of arachnid,1
+219,A spider is a kind of mammal,0
+220,Vesuvius is a kind of active volcano,1
+221,Vesuvius is a kind of dormant volcano,0
+222,An active volcano is a kind of volcano,1
+223,An active volcano is a kind of island,0
+224,Amazon River is a kind of river,1
+225,Amazon River is a kind of lake,0
+226,A river is a kind of watercourse,1
+227,A river is a kind of desert,0
+228,A Blue Jay is a kind of songbird,1
+229,A Blue Jay is a kind of flightless bird,0
+230,A songbird is a kind of bird,1
+231,A songbird is a kind of fish,0
+232,Kilimanjaro is a kind of mountain peak,1
+233,Kilimanjaro is a kind of plateau,0
+234,mountain peak is a kind of mountain,1
+235,mountain peak is a kind of Forest,0
+236,grand piano is a kind of musical instrument,1
+237,grand piano is a kind of string instrument,0
+238,musical instrument is a kind of object,1
+239,musical instrument is a kind of concept,0
+240,Elephant Seal is a kind of marine mammal,1
+241,Elephant Seal is a kind of terrestrial mammal,0
+242,marine mammal is a kind of animal,1
+243,marine mammal is a kind of plant,0
+244,The Colosseum is a kind of amphitheater,1
+245,The Colosseum is a kind of stadium,0
+246,An amphitheater is a kind of historical structure,1
+247,An amphitheater is a kind of modern building,0
+248,Burj Khalifa is a kind of skyscraper,1
+249,Burj Khalifa is a kind of lighthouse,0
+250,A skyscraper is a kind of building,1
+251,A skyscraper is a kind of spacecraft,0
+252,The Milky Way is a kind of galaxy,1
+253,The Milky Way is a kind of nebula,0
+254,A galaxy is a kind of astronomical structure,1
+255,A galaxy is a kind of geological formation,0
+256,Arctic Ocean is a kind of polar ocean,1
+257,Arctic Ocean is a kind of tropical ocean,0
+258,A polar ocean is a kind of ocean,1
+259,A polar ocean is a kind of river,0
+260,Rubik's Cube is a kind of puzzle toy,1
+261,Rubik's Cube is a kind of stuffed toy,0
+262,A puzzle toy is a kind of toy,1
+263,A puzzle toy is a kind of musical instrument,0
+264,The Sphinx is a kind of monument,1
+265,The Sphinx is a kind of memorial,0
+266,A monument is a kind of historical artifact,1
+267,A monument is a kind of modern artwork,0
+268,Gobi Desert is a kind of desert,1
+269,Gobi Desert is a kind of rainforest,0
+270,A desert is a kind of landform,1
+271,A desert is a kind of ocean,0
+272,Nile Crocodile is a kind of crocodile,1
+273,Nile Crocodile is a kind of alligator,0
+274,A crocodile is a kind of reptile,1
+275,A crocodile is a kind of bird,0
+276,The Alps is a kind of mountain range,1
+277,The Alps is a kind of forest,0
+278,A mountain range is a kind of geographical feature,1
+279,A mountain range is a kind of urban area,0
+280,The Sistine Chapel is a kind of chapel,1
+281,The Sistine Chapel is a kind of mosque,0
+282,A chapel is a kind of religious building,1
+283,A chapel is a kind of theater,0
+284,Stonehenge is a kind of prehistoric monument,1
+285,Stonehenge is a kind of modern skyscraper,0
+286,A prehistoric monument is a kind of cultural site,1
+287,A prehistoric monument is a kind of research facility,0
+288,The Matterhorn is a kind of mountain peak,1
+289,The Matterhorn is a kind of canyon,0
+290,A mountain peak is a kind of mountain,1
+291,A mountain peak is a kind of plain,0
+292,Ayers Rock is a kind of rock formation,1
+293,Ayers Rock is a kind of iceberg,0
+294,A rock formation is a kind of natural landmark,1
+295,A rock formation is a kind of artificial structure,0
+296,French Horn is a kind of brass instrument,1
+297,French Horn is a kind of woodwind instrument,0
+298,A brass instrument is a kind of musical instrument,1
+299,A brass instrument is a kind of electronic device,0
+300,Bonsai is a kind of dwarfed tree,1
+301,Bonsai is a kind of flowering plant,0
+302,A dwarfed tree is a kind of plant,1
+303,A dwarfed tree is a kind of fungus,0
+304,Gorilla is a kind of great ape,1
+305,Gorilla is a kind of small primate,0
+306,A great ape is a kind of primate,1
+307,A great ape is a kind of feline,0
+308,Harpy Eagle is a kind of bird of prey,1
+309,Harpy Eagle is a kind of duck,0
+310,A bird of prey is a kind of bird,1
+311,A bird of prey is a kind of reptile,0
+312,A conifer is a kind of evergreen tree,1
+313,A conifer is a kind of deciduous tree,0
+314,An evergreen tree is a kind of tree,1
+315,An evergreen tree is a kind of shrub,0
+316,A fjord is a kind of coastal feature,1
+317,A fjord is a kind of desert,0
+318,A coastal feature is a kind of geographical formation,1
+319,A coastal feature is a kind of urban structure,0
+320,A Koi Fish is a kind of ornamental fish,1
+321,A Koi Fish is a kind of deep sea fish,0
+322,An ornamental fish is a kind of fish,1
+323,An ornamental fish is a kind of mammal,0
+324,The Black Forest is a kind of forest,1
+325,The Black Forest is a kind of mountain range,0
+326,A forest is a kind of biome,1
+327,A forest is a kind of urban environment,0
+328,A lotus is a kind of aquatic flower,1
+329,A lotus is a kind of terrestrial flower,0
+330,An aquatic flower is a kind of flower,1
+331,An aquatic flower is a kind of mushroom,0
+332,A Joshua Tree is a kind of yucca plant,1
+333,A Joshua Tree is a kind of cactus,0
+334,A yucca plant is a kind of plant,1
+335,A yucca plant is a kind of animal,0
+336,An anteater is a kind of mammal,1
+337,An anteater is a kind of bird,0
+338,A mammal is a kind of animal,1
+339,A mammal is a kind of plant,0
+340,A goldenrod is a kind of wildflower,1
+341,A goldenrod is a kind of cultivated flower,0
+342,A wildflower is a kind of plant,1
+343,A wildflower is a kind of mineral,0
+344,The Mississippi River is a kind of river,1
+345,The Mississippi River is a kind of canal,0
+346,A river is a kind of watercourse,1
+347,A river is a kind of mountain,0
+348,The Andromeda Galaxy is a kind of galaxy,1
+349,The Andromeda Galaxy is a kind of star cluster,0
+350,A galaxy is a kind of astronomical object,1
+351,A galaxy is a kind of planetary system,0
+352,An arctic fox is a kind of mammal,1
+353,An arctic fox is a kind of reptile,0
+354,A mammal is a kind of animal,1
+355,A mammal is a kind of fungus,0
+356,The Aurora Borealis is a kind of natural light display,1
+357,The Aurora Borealis is a kind of volcanic eruption,0
+358,A natural light display is a kind of atmospheric phenomenon,1
+359,A natural light display is a kind of geological event,0
+360,A salt flat is a kind of natural feature,1
+361,A salt flat is a kind of mountain range,0
+362,A natural feature is a kind of geographical formation,1
+363,A natural feature is a kind of urban area,0
+364,A praying mantis is a kind of insect,1
+365,A praying mantis is a kind of amphibian,0
+366,An insect is a kind of arthropod,1
+367,An insect is a kind of mollusk,0
+368,A nautilus is a kind of marine creature,1
+369,A nautilus is a kind of freshwater creature,0
+370,A marine creature is a kind of mollusk,1
+371,A marine creature is a kind of bird,0
+372,A bluebell is a kind of wildflower,1
+373,A bluebell is a kind of garden flower,0
+374,A wildflower is a kind of flower,1
+375,A wildflower is a kind of tree,0
+376,A stalactite is a kind of cave formation,1
+377,A stalactite is a kind of river valley,0
+378,A cave formation is a kind of geological feature,1
+379,A cave formation is a kind of man-made structure,0
+380,A wallaby is a kind of marsupial,1
+381,A wallaby is a kind of carnivore,0
+382,A marsupial is a kind of mammal,1
+383,A marsupial is a kind of fish,0
+384,The Andromeda Galaxy is a kind of galaxy,1
+385,The Andromeda Galaxy is a kind of solar system,0
+386,A galaxy is a kind of astronomical structure,1
+387,A galaxy is a kind of physical phenomenon,0
+388,A bumblebee is a kind of insect,1
+389,A bumblebee is a kind of spider,0
+390,An insect is a kind of arthropod,1
+391,An insect is a kind of mammal,0
+392,Acropolis is a kind of ancient citadel,1
+393,Acropolis is a kind of modern metropolis,0
+394,An ancient citadel is a kind of historical site,1
+395,An ancient citadel is a kind of natural reserve,0
